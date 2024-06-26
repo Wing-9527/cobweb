@@ -1,0 +1,17 @@
+{
+  "name": "cobweb",
+  "version": "1.0.0",
+  "description": "python: 3.8.10\r go: 1.22.4",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "progress": "^2.0.3"
+  }
+}

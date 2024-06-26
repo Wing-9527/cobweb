@@ -1,0 +1,5 @@
+/node_modules
+/module/subdomains/reports/*
+/module/dirsearch/reports/*
+/module/httpx/reports/*
+/utils_config
